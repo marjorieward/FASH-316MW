@@ -145,6 +145,12 @@ h3 {
   margin: auto;
 }
 
+.checkpt{
+	display: block;
+  width: 20%;
+  margin: auto;
+}
+
 .people{
 	display: block;
   width: 70%;
