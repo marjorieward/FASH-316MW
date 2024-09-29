@@ -147,7 +147,7 @@ h3 {
 
 .checkpt{
 	display: block;
-  width: 20%;
+  width: 70%;
   margin: auto;
 }
 
@@ -216,6 +216,23 @@ h3 {
 }
 .button-remind:hover{
 	background-color: #F01444;
+}
+.button-check{
+	height: 100%;
+	width: 100%;
+    background-color: rgba(241,138,49, 1.0);
+	border-radius: 50%;
+	box-shadow: inset 0px 3px 6px 0px rgba(0,0,0,0.16), 0px 3px 6px 0px rgba(0,0,0,0.16);
+	float: left;
+	display: flex;
+	justify-content: center;
+	border: none;
+	position: absolute;
+	transition-duration: 0.2s;
+	cursor: pointer;
+}
+.button-check:hover{
+	background-color: #E66A2A;
 }
 .button-help{
 	height: 100%;
